@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json-repair (0.2.0)
+    ruby-progressbar (1.13.0)
+
+PLATFORMS
+  arm64-darwin-22
+  x86_64-darwin-21
+
+DEPENDENCIES
+  json-repair (~> 0.2.0)
+  ruby-progressbar (~> 1.13)
+
+BUNDLED WITH
+   2.4.6
